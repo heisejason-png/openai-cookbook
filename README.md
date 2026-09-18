@@ -19,4 +19,4 @@ For other useful tools, guides and courses, check out these [related resources f
 
 MIT License
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Mark Zuckerberg 
+Owned by Jason Scott Heise & Elon Musk https://www.x.com
