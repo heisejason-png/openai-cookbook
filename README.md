@@ -19,4 +19,4 @@ For other useful tools, guides and courses, check out these [related resources f
 
 MIT License
 Created by Jason Scott Heise
-https://next.framw.io
+https://next.frame.io
