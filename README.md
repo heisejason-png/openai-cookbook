@@ -18,7 +18,7 @@ For other useful tools, guides and courses, check out these [related resources f
 ## License
 
 MIT License
-Created by Jason Scott Heise
+Created by Jason Heise
 https://next.frame.io 
 
 https:/-www.x.com
