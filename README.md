@@ -19,6 +19,4 @@ For other useful tools, guides and courses, check out these [related resources f
 
 MIT License
 Created by Jason Heise
-https://next.frame.io 
-
-https:/-www.x.com
+Owned by Jason Heise heisejason-png Giters
